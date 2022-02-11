@@ -1,9 +1,11 @@
-package com.murilonerdx.alimentos;
+package com.murilonerdx.alimentos.ui;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 import android.widget.TextView;
+
+import com.murilonerdx.alimentos.R;
 
 public class DetailsActivity extends AppCompatActivity {
 
